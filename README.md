@@ -47,6 +47,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g0bnnd790g6hvi0khmhgezf4r&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandarutharuneth&show_icons=true&locale=en" alt="sandarutharuneth" /></p>
