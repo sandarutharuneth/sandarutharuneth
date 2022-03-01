@@ -47,6 +47,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g0bnnd790g6hvi0khmhgezf4r&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1ee04a3-0e58-4593-9cb5-39365f1f2514/deploy-status)](https://app.netlify.com/sites/silly-bose-b3a30e/deploys)
+
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p>
 
