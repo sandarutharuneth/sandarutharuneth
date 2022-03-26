@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **scss**
 
-- 👨‍💻 My full bio available at [www.sandarutharuneth.ml](https://www.sandarutharuneth.com)
+- 👨‍💻 My full bio available at [www.sandarutharuneth.com](https://www.sandarutharuneth.com)
 
 - 💬 Ask me about **anything**
 
