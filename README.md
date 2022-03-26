@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/sandarudev" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="sandarudev" /></a> </p>
 
-- 🔭 I’m currently working on [RAZER the Discord Bot](https://officialraezr.xyz)
+- 🔭 I’m currently working on [RAZER the Discord Bot](https://www.officialraezr.xyz)
 
 - 🌱 I’m currently learning **scss**
 
-- 👨‍💻 My full bio available at [www.sandarutharuneth.ml](https://www.sandarutharuneth.ml)
+- 👨‍💻 My full bio available at [www.sandarutharuneth.ml](https://www.sandarutharuneth.com)
 
 - 💬 Ask me about **anything**
 
