@@ -40,6 +40,7 @@
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCOGChXvRG1dYCY3X7c3HFXQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q77HLK2)
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
