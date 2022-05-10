@@ -64,10 +64,10 @@
 </p>
     
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandarutharuneth&show_icons=true&locale=en" alt="sandarutharuneth" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandarutharuneth&" alt="sandarutharuneth" /></p></div>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandarutharuneth&" alt="sandarutharuneth" /></p>
 
 
 
