@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarutharuneth&label=Profile%20views&color=0e75b6&style=flat" alt="sandarutharuneth" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandarutharuneth" alt="sandarutharuneth" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandarutharuneth" alt="sandarutharuneth" /></a> </p> <br>
+
+<a href="https://discord.com/users/768741356297912331">
+        <img src="https://lanyard-profile-readme.vercel.app/api/768741356297912331?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/mIpJpu8.png">
 
