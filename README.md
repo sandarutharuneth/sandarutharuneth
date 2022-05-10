@@ -54,7 +54,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q77HLK2)
 
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g0bnnd790g6hvi0khmhgezf4r&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=g0bnnd790g6hvi0khmhgezf4r&cover_image=true&theme=default&bar_color_cover=false" />
+    </a>
 </p>
     
 <div align="center">
