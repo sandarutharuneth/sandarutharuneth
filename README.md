@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/mIpJpu8.png">
 
-<p align="left"> <a href="https://twitter.com/sandarudev" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="sandarudev" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sandarudev" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="sandarudev" /></a> </p>
 
 - 🔭 I’m currently working on [RAZER the Discord Bot](https://www.officialraezr.xyz)
 
