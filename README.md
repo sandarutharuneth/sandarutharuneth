@@ -51,6 +51,8 @@
     </a>
 </p>
 
+<div align="center">
+    <p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=315ixpcfzi5fsgylipwww7k7bk2m&cover_image=true&theme=default&bar_color=deadff&bar_color_cover=false" alt="sandarutharuneth" /></p></div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315ixpcfzi5fsgylipwww7k7bk2m&cover_image=true&theme=default&bar_color=deadff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315ixpcfzi5fsgylipwww7k7bk2m&redirect=true)
 
     
