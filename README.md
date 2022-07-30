@@ -40,9 +40,7 @@
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCOGChXvRG1dYCY3X7c3HFXQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitch.tv/onvue" target="_blank">
-<img src="https://img.shields.io/twitch/status/onvue?logo=Twitch&logoColor=white&style=for-the-badge />
-</a>
+![Twitch Status](https://img.shields.io/twitch/status/onvue?logo=Twitch&logoColor=white&style=for-the-badge)
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
