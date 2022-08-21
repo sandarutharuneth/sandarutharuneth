@@ -1,5 +1,5 @@
 <div align="center">
-[![MasterHead](https://i.imgur.com/KMXADen.png)](https://sandarutharuneth.com)
+<img src="https://i.imgur.com/KMXADen.png">
 </div>
 <h1 align="center">Hi 👋, I'm Sandaru Tharuneth</h1>
 <h3 align="center">Web designer and a freelance software engineer</h3>
