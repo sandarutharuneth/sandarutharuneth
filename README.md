@@ -37,7 +37,7 @@
     <p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=315ixpcfzi5fsgylipwww7k7bk2m&cover_image=true&theme=default&bar_color=deadff&bar_color_cover=false" alt="sandarutharuneth" /></p></div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sandarudev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sandarudev" /></a></p><br><br>
+<p><a href="https://ko-fi.com/sandarudev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sandarudev" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p>
 
