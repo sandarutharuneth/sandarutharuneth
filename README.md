@@ -39,10 +39,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sandarudev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sandarudev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarutharuneth&show_icons=true&locale=en&layout=compact" alt="sandarutharuneth" /></p>
+<b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandarutharuneth&show_icons=true&locale=en" alt="sandarutharuneth" /></p>
+<a href="http://www.github.com/sandarutharuneth"><img src="https://github-readme-stats.vercel.app/api?username=sandarutharuneth&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="sandarutharuneth's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandarutharuneth&" alt="sandarutharuneth" /></p>
+<a href="http://www.github.com/sandarutharuneth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarutharuneth&stroke=a855f7&background=000000&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
+<a href="http://www.github.com/sandarutharuneth"><img src="https://activity-graph.herokuapp.com/graph?username=sandarutharuneth&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/sandarutharuneth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandarutharuneth&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
