@@ -1,4 +1,6 @@
+<div align="center">
 [![MasterHead](https://i.imgur.com/KMXADen.png)](https://sandarutharuneth.com)
+</div>
 <h1 align="center">Hi 👋, I'm Sandaru Tharuneth</h1>
 <h3 align="center">Web designer and a freelance software engineer</h3>
 
