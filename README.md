@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/KMXADen.png">
 </div>
-<h1 align="center">Hi 👋, I'm Sandaru Tharuneth</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Musical+Artist;UI%2FUX+Designer;Web+Developer;Software+Engineer" alt="Typing SVG" /></a>
 <h3 align="center">Web designer and a freelance software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandarutharuneth&label=Profile%20views&color=0e75b6&style=flat" alt="sandarutharuneth" /> </p>
