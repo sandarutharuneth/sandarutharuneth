@@ -56,7 +56,7 @@
 
 ---
 
-###My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
 <img src="https://github.com/sandarutharuneth/sandarutharuneth/blob/output/github-contribution-grid-snake.svg"></p>
