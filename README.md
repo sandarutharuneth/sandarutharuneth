@@ -55,12 +55,6 @@
 
 ---
 
-<p align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=315ixpcfzi5fsgylipwww7k7bk2m">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315ixpcfzi5fsgylipwww7k7bk2m" alt="Data Card for Spotify">
-</a>
-</p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://paypal.me/officialrazer"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
 </p><br><br>
