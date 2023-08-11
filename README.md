@@ -69,4 +69,7 @@
 <p align="center">
 <a href="http://www.github.com/sandarutharuneth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarutharuneth&stroke=a855f7&background=000000&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></a></p>
 
+![Stats](https://github-readme-stats-sigma-five.vercel.app//api?username=sandarutharuneth&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=sandarutharuneth&layout=compact&langs_count=8&theme=tokyonight)
+
 
