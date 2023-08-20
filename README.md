@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<h3 align="center">Web designer and a freelance software engineer</h3></p>
+<h3 align="center">Web designer UI/UX, freelance Software Engineer and ML developer.</h3></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandarutharuneth&label=Profile%20views&color=0e75b6&style=flat" alt="sandarutharuneth" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandarutharuneth" alt="sandarutharuneth" /></a> </p>
@@ -18,15 +18,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Musical+Artist;UI%2FUX+Designer;Web+Developer;Software+Engineer" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Openjourney Bot](https://openjourneybot.com)
-
-- 🌱 I’m currently learning **vue.js**
-
-- 👨‍💻 My Full bio available at [sandarutharuneth.com](https://sandarutharuneth.com)
-
+- 🌱 I’m currently learning **Rust**
+- 👨‍💻 My Full bio available at [ Coming soon... ]
 - 💬 Ask me about **anything**
-
 - 📫 How to reach me **sandarutharuneth@gmail.com**
-
 - ⚡ Fun fact **I'm obsessed with Disney movies**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +39,7 @@
 | Bot | Name | Status | About | Website |
 | :---- | :---- | :---- | :---- | :---- |
 |![openjourney](https://i.imgur.com/Mn4Tbbz.png)| **Openjourney** `✔ BOT` | `🔘 Online` | Free AI Art Bot | [**www.openjourneybot.com**](https://openjourneybot.com) |
-|![Imgur](https://i.imgur.com/UmFVQjM.png)| **Dove** `✔ BOT` | `🔘 Online` | Free Music Bot | [**www.dovemusic.co**](https://dovemusic.co) |
+|![Imgur](https://i.imgur.com/UmFVQjM.png)| **Dove** `✔ BOT` | `🛠 Maintenance` | Free Music Bot | [**www.dovemusic.co**](https://dovemusic.co) |
 |![Imgur](https://i.imgur.com/ptQ9Rbc.png)| **IVON** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.ivongiveaways.com**](https://ivongiveaways.com) |
 |![Imgur](https://i.imgur.com/QxrHZaX.png)| **Razer** `✔ BOT` | `🛠 Maintenance` | Server Security Bot | `🛠 Maintenance` |
 
