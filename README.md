@@ -45,11 +45,31 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,aws,azure,babel,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,html,css,js,devto,discord,bots,docker,dotnet,electron,figma,firebase,flutter,gcp,git,github,heroku,idea,ai,instagram,java,python,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,postman,powershell,pr,react,replit,rust,stackoverflow,swift,tailwind,twitter,ts,unity,unreal,vercel,vscode,vite,webflow,wordpress,xd" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,discord,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,bash,c,cs,cpp,html,css,js,docker,dotnet,electron,heroku,idea,ai,instagram,java,python,kotlin,mongodb,mysql,nextjs,nodejs,php,react,rust,swift,tailwind,ts,vite,xd" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Services:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
   </a>
 </p>
 
