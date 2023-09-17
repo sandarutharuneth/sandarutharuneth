@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,discord,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bash,c,cs,cpp,html,css,js,docker,dotnet,electron,heroku,java,python,kotlin,mongodb,mysql,nextjs,nodejs,php,react,rust,swift,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=babel,bash,c,cs,cpp,html,css,js,docker,dotnet,electron,java,python,kotlin,mongodb,mysql,nextjs,nodejs,php,react,rust,swift,tailwind,ts,vite" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
   </a>
 </p>
 
