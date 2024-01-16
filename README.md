@@ -15,11 +15,11 @@
 <p align="left"> <a href="https://twitter.com/sandarudev" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="sandarudev" /></a> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Musical+Artist;UI%2FUX+Designer;Web+Developer;Software+Engineer" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [Openjourney Bot](https://openjourneybot.com)
+- 🔭 I’m currently working on [Openjourney](https://openjourneybot.com)
 - 🌱 I’m currently learning **Rust**
 - 👨‍💻 My Full bio available at [ Coming soon... ]
 - 💬 Ask me about **anything**
-- 📫 How to reach me **sandarutharuneth@gmail.com**
+- 📫 How to reach me **sandaru@openjourneybot.com**
 - ⚡ Fun fact **I'm obsessed with Disney movies**
 
 <h3 align="left">Connect with me:</h3>
