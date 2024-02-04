@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Rust**
 - 👨‍💻 My Full bio available at [ Coming soon... ]
 - 💬 Ask me about **anything**
-- 📫 How to reach me **sandaru@openjourneybot.com**
+- 📫 How to reach me **sandarudev@icloud.com**
 - ⚡ Fun fact **I'm obsessed with Disney movies**
 
 <h3 align="left">Connect with me:</h3>
