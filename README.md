@@ -19,7 +19,6 @@
 - 👨‍💻 My Full bio available at [ Coming soon... ]
 - 💬 Ask me about **anything**
 - 📫 How to reach me **sandarudev@icloud.com**
-- ⚡ Fun fact **I'm obsessed with Disney movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,14 +30,16 @@
 
 ---
 
-## My Discord Bot Projects
+## Check out Openjourney
+<div align="center">
+  <a href="https://openjourneybot.com">
+    <img src="https://i.ibb.co/2S3jSG7/image-1.png">
+  </a>
+</div>
 
-| Bot | Name | Status | About | Website |
-| :---- | :---- | :---- | :---- | :---- |
-|![openjourney](https://i.imgur.com/Mn4Tbbz.png)| **Openjourney** `✔ BOT` | `🔘 Online` | Free AI Art Bot | [**www.openjourneybot.com**](https://openjourneybot.com) |
-|![Imgur](https://i.imgur.com/UmFVQjM.png)| **Dove** `✔ BOT` | `🛠 Maintenance` | Free Music Bot | [**www.dovemusic.co**](https://dovemusic.co) |
-|![Imgur](https://i.imgur.com/ptQ9Rbc.png)| **IVON** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.ivongiveaways.com**](https://ivongiveaways.com) |
-|![Imgur](https://i.imgur.com/QxrHZaX.png)| **Razer** `✔ BOT` | `🛠 Maintenance` | Server Security Bot | `🛠 Maintenance` |
+> [!TIP]
+> **Visit [www.openjourneybot.com](https://openjourneybot.com) to learn more about Openjourney. An AI image generation platform to everyone for free!**
+>> **Contact for more info:** [*press@openjourneybot.com*](mailto:press@openjourneybot.com)
 
 ---
 
