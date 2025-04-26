@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://sandarutharuneth.com.com" target="blank">
+  <a href="https://sandarutharuneth.com.com" target="_blank">
     <img src="https://i.ibb.co/gFSS8BwT/aiu-1745638391004.jpg">
   </a>
 </div>
