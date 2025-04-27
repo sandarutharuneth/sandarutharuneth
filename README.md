@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Openjourney](https://openjourneybot.com)
 - 🌱 I’m currently learning **Rust**
-- 👨‍💻 My Full bio available at [sandarutharuneth.com](https://sandarutharuneth.com.com)
+- 👨‍💻 My Full bio available at [sandarutharuneth.com](https://sandarutharuneth.com)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **sandarudev@icloud.com**
 
