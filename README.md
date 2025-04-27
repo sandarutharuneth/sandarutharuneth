@@ -13,7 +13,6 @@
 
 ---
 
-<p align="left"> <a href="https://twitter.com/sandarudev" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="sandarudev" /></a> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Musical+Artist;UI%2FUX+Designer;Web+Developer;Software+Engineer" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Openjourney](https://openjourneybot.com)
@@ -24,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandarudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandarudev" height="30" width="40" /></a>
-<a href="https://instagram.com/sandarutharuneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandarutharuneth" height="30" width="40" /></a>
-<a href="https://facebook.com/sandarudeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandarutharuneth" height="30" width="40" /></a>    
+  <a href="https://instagram.com/sandarutharuneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" alt="sandarutharuneth" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sandarutharuneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg" alt="sandarutharuneth" height="30" width="40" /></a>
+  <a href="https://x.com/sandarudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg" alt="sandarudev" height="30" width="40" /></a>
 </p>
 <a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a>
 
