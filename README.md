@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sandarutharuneth.com" target="_blank">
-    <img src="https://i.ibb.co/gFSS8BwT/aiu-1745638391004.jpg">
+    <img src="https://i.ibb.co/Kk7Pp4g/aiu-1750936902752.png">
   </a>
 </div>
 
