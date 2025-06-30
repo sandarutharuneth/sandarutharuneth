@@ -75,8 +75,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://paypal.me/officialrazer"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
-</p><br><br>
+<a href="https://coff.ee/sandarudev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
