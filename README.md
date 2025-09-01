@@ -39,8 +39,8 @@
 </div>
 
 > [!TIP]
-> **Visit [www.openjourneybot.com](https://openjourneybot.com) to learn more about Openjourney. An AI image generation platform to everyone for free!**
->> **Contact for more info:** [*press@openjourneybot.com*](mailto:press@openjourneybot.com)
+> **Visit [www.openjourney.net](https://openjourney.net) to learn more about Openjourney. An AI image generation platform to everyone for free!**
+>> **Contact for more info:** [*press@openjourney.net*](mailto:press@openjourney.net)
 
 ---
 
