@@ -33,8 +33,8 @@
 
 ## Check out Openjourney
 <div align="center">
-  <a href="https://openjourneybot.com">
-    <img src="https://i.ibb.co/2S3jSG7/image-1.png">
+  <a href="https://openjourney.net">
+    <img src="https://i.ibb.co/bjGyp6mW/opj-banner.jpg">
   </a>
 </div>
 
