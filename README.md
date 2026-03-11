@@ -75,7 +75,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<a href="[https://coff.ee/sandarudev](https://ko-fi.com/Q5Q77HLK2)" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="61" width="174"></a>
+<a href="https://ko-fi.com/Q5Q77HLK2" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="61" width="174"></a>
 
 
 ---
