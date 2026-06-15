@@ -74,6 +74,22 @@
 
 ---
 
+<h3 align="left">Services I Recommend</h3>
+
+## Storage & CDN
+Bunny CDN. Cheap AF and my no1 choice for storage & cdn. All of my project uses this. There's no Subscriptions and only pay as you go. 
+> Signup: <a href="https://bunny.net?ref=698jxc8b2t">Bunny</a>
+
+## Static Web Hosting and DNS
+Netlify is a great service with a generous free tier for all your small hosting needs.
+> Signup: Netlify.com
+
+## All In One Hosting
+Railway hosting is a great place to deploy your apps, dbs, cache servers, replicas with an ease. 
+> Signup with my link for $20 credits: <a href="https://railway.com?referralCode=Openjourney">Railway</a>
+
+---
+
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/Q5Q77HLK2" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="61" width="174"></a>
 
